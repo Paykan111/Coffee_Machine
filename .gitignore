@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems/The result of a Tic-Tac-Toe game/out/
+/Problems/The result of a Tic-Tac-Toe game/out/production/classes/
